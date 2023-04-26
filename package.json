@@ -1,0 +1,16 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db_esercizio.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@databases/mysql": "^5.2.1",
+    "dotenv": "^16.0.3"
+  }
+}
